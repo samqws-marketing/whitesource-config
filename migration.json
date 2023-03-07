@@ -1,0 +1,7 @@
+{
+	"migrationMode": {
+		"changeType": "inheritance",
+		"openPR": false,
+    "includeRepos": ["samqws-marketing/electronicarts_ava-capture", "samqws-marketing/box_mojito"]
+	}
+}
