@@ -1,9 +1,0 @@
-{
-	"migrationMode": {
-		"changeType": "deletion",
-		"openPR": false,
-    "triggerScan": false
-  },
-    "includeRepos": ["samqws-marketing/electronicarts_ava-capture", "samqws-marketing/box_mojito"]
-	}
-}
